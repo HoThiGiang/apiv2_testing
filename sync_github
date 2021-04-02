@@ -1,0 +1,169 @@
+key,value
+app_name,{{app_name}}
+bad_token,Une erreur est survenue
+forbidden,Une erreur est survenue
+not_acceptable,Une erreur est survenue
+bad_request,Une erreur est survenue
+method_not_allowed,Une erreur est survenue
+can_not_send_notification,Une erreur est survenue
+error_newdata_required,Vous devez renseigner la nouvelle valeur.
+error_newpassword_too_short,Votre nouveau mot de passe doit faire au moins 8 caractères
+error_while_updating_database,Une erreur est survenue
+data_sent_not_well_formated,Une erreur est survenue
+bad_localisation,Erreur de localisation
+no_result_for_this_geoname_id,Erreur de localisation
+error_current_password,Votre mot de passe actuel est incorrect
+error_email_username_not_correct_format,Vous ne pouvez pas créer de compte avec un email provenant de ce nom de domaine.
+error_email_is_not_valid,L'Email n'est pas valide
+error_while_updating_database_abo,Une erreur est survenue
+sms_not_sent,"Erreur, le code de validation n'a pas été envoyé"
+token_does_not_match,"Une erreur est survenue, veuillez recommencer l'opération"
+missing_codesecur,"Erreur, le code est incorrect"
+error_while_updating_database_desabo,Une erreur est survenue
+date_not_well_formated,Une erreur est survenue
+date_not_valid,"Erreur, la date est invalide"
+error_service_unavailable,Une erreur est survenue
+bill_issue_wrong_or_missing_pass,Mot de passe incorrect
+bill_issue_during_process,Erreur : bill_issue_during_process
+bill_issue_during_cancelation,Erreur : bill_issue_during_cancelation
+bill_issue_missing_parameter,Erreur : bill_issue_missing_parameter
+bill_issue_no_subscription,Pas d'abonnement lié a ce compte
+bill_issue_missing_parameter_number,Erreur : bill_issue_missing_parameter_number
+bill_issue_no_notif_sent,Erreur : bill_issue_no_notif_sent
+bill_internal_error_user_not_found,Erreur : utilisateur non trouvé
+bill_internal_error_db_connexion,Erreur : bill_internal_error_db_connexion
+bill_remote_error,Erreur : bill_remote_error
+bill_remote_error_sandbox,Erreur : bill_remote_error_sandbox
+bill_error_receipt_ko,Erreur : bill_error_receipt_ko
+restore_error_dates_issue,Erreur : restore_error_dates_issue
+bill_error_receipt_ko_not_in_our_products,Erreur : bill_error_receipt_ko_not_in_our_products
+bill_internal_error_transaction_not_saved,Erreur : bill_internal_error_transaction_not_saved
+bill_error_receipt_ko_no_success,Erreur : bill_error_receipt_ko_no_success
+bill_internal_error_abo_id,Erreur : bill_internal_error_abo_id
+bill_internal_error_update_transaction,Erreur : bill_internal_error_update_transaction
+already_in_your_blacklist,Personne déjà bloquée
+error_user_not_premium,Vous n'êtes pas premium
+error_empty_token,Le jeton est vide
+error_change_password,"Si vous êtes membre, vous recevrez immédiatement par email les informations pour choisir un nouveau mot de passe."
+error_pwd_too_short,Le mot de passe doit faire au minimum 8 caractères
+contact_request_not_found,Une erreur est survenue
+contact_request_error_wrong_user,Une erreur est survenue
+contact_request_error_recipient_needed,Une erreur est survenue
+contact_request_error_message_needed,Une erreur est survenue
+contact_request_error_wrong_gender,Une erreur est survenue
+error_update_required,Une erreur est survenue
+contact_request_error_cannot_send,Vous ne pouvez pas envoyer de message à cette personne
+contact_request_error_must_have_picture,Vous devez avoir une photo de profil pour croiser son destin
+contact_request_error_already_sent,Attendez un peu avant d'envoyer une nouvelle demande
+contact_request_error_already_accepted,"Vos destins se sont déjà croisés, vous pouvez discuter ensemble"
+contact_request_error_women_only,Une erreur est survenue
+contact_request_error_wrong_status,Une erreur est survenue
+contact_request_error_men_only,Une erreur est survenue
+contact_request_error_user_not_found,Une erreur est survenue
+contact_request_error_women_only_can_edit,Une erreur est survenue
+contact_request_error_invalid_status,Une erreur est survenue
+param_title_should_not_be_empty,Le titre des paramètres ne doit pas être vide
+param_search_should_not_be_empty,La recherche des paramètres ne doit pas être vide
+title_already_used,Ce nom est déjà utilisé
+upgrade_required,Une erreur est survenue
+params_missing,Une erreur est survenue
+error_user_not_found,Utilisateur non trouvé
+empty_username_password,Identifiant ou mot de passe ne doit pas être vide
+wrong_username_password,Identifiant ou mot de passe incorrect
+error_wrong_language,Une erreur est survenue
+error_wrong_os,Une erreur est survenue
+error_failed_to_set_inactive,Une erreur est survenue
+error_empty_email,Veuillez renseigner une adresse mail.
+error_picture_waiting_for_approval,Votre photo est en attente de modération. Il n'est pas nécessaire de la réuploader
+error_picture_invalid,La photo n'est pas valide
+error_no_gender,Une erreur est survenue
+ip_limited_in_24h,Il semblerait qu’un grand nombre de comptes aient été créé depuis votre adresse IP récemment. Cela est contraire au CGV que vous avez accepté. Nous ne pouvons valider votre inscription
+login_or_firstname_must_not_be_empty,Le pseudo ne doit pas être vide
+error_password_contain_space,Le mot de passe ne doit pas contenir d’espace
+error_gender_must_be_1_or_2,Vous n'avez pas choisi Femme ou Homme
+error_wrong_birthdate,La date d'anniversaire est incorrecte
+error_18_or_older,Vous devez avoir 18 ans minimum
+error_username_is_too_short,Merci de choisir un pseudo de 4 à 12 caractères
+error_username_is_too_long,Merci de choisir un pseudo de 4 à 12 caractères
+error_firstname_is_too_short,Merci de choisir un prénom de 4 à 15 caractères
+error_firstname_is_too_number,Merci de choisir un prénom avec 2 chiffres maximum
+error_firstname_is_too_space,Merci de choisir un prénom avec 2 espaces maximum
+error_malformed_mail,Le mail est incorrect
+error_pseudo_or_email_incorrect,Le mail ou le pseudo est incorrect
+email_already_used,Catte adresse email est déjà prise. Voulez-vous vous <a href='/login'>connecter</a> ou <a href='/forgot-password'>récupérer votre mot de passe</a> ?
+cannot_create_account_with_blocked_email_domain,Vous ne pouvez pas créer de compte avec un email provenant de ce nom de domaine.
+cannot_create_account_with_blocked_username,"Ce prénom n’est pas accepté, veuillez en choisir un autre"
+username_already_used,Ce pseudo est déjà utilisé.
+error_registration,Un problème est survenu lors de votre inscription
+error_incorrect_device,Une erreur est survenue
+error_rating_forbidden,Vous avez déjà voté.
+error_missing_parameters,Une erreur est survenue
+error_invalid_date,Une erreur est survenue
+restore_error_subscription_on_another_user,Erreur : restore_error_subscription_on_another_user
+restore_error_no_latest_receipt_info,Erreur : restore_error_no_latest_receipt_info
+restore_error_no_latest_receipt_info_no_receipt,Erreur : restore_error_no_latest_receipt_info_no_receipt
+restore_error_hack_num_trans,Erreur : restore_error_hack_num_trans
+restore_error_hack_bid,Erreur : restore_error_hack_bid
+restore_error_internal_error,Erreur : restore_error_internal_error
+type_invalid,Type de service de messagerie invalide
+starlist_already_in_starlist,Déjà dans vos favoris
+starlist_cannot_add_was_in_blacklist,"Personne bloquée, ajout à vos favoris impossible !"
+starlist_no_delete,Impossible de supprimer de vos favoris
+payment_required,Vous devez souscrire à une offre pour accéder à cette fonctionnalité.
+email_not_validated,Vous n'avez toujours pas validé votre email
+you_blocked_this_person,Vous avez bloqué cette personne
+you_can_not_send_to,Vous ne pouvez pas écrire à {{login}}
+message_error_cannot_send,Message non envoyé - Personne bloquée
+put_at_least_one_picture,Veuillez mettre au moins une photo pour utiliser cette fonctionnalité
+message_error_contact_request_required,Vous devez d'abord croiser vos destins
+error_wrong_filter,Une erreur est survenue
+precondition_failed,Une erreur est survenue
+internal_server_error,Une erreur est survenue
+error_empty_password,Erreur mot de passe vide
+you_must_have_pic_to_enable_picfilter,Vous devez avoir une image pour activer ce filtre
+success_check_code,Votre Profil sera mise en avant pendant 24 heures
+unsuccess_check_code,Code invalide,
+success_check_token,La vérification du jeton a réussi
+success_password_edited,Votre mot de passe a été mis à jour
+success_unsubscribe_done_sms,Un sms de confirmation vous a été envoyé
+success_unsubscribe_done_email,Un email de confirmation vous a été envoyé
+success_birthday_updated,Votre anniversaire a été mis à jour
+success_account_updated,Votre compte a été mis à jour
+success_email_edited,Un email de confirmation vous a été envoyé
+success_bill_was_subscribed,Vous êtes déjà abonné.
+success_bill_checked,"Félicitations, vous êtes abonné !"
+success_blacklist_added,Le blocage est confirmé
+success_blacklist_user_removed,Personne débloquée
+success_blacklist_users_removed,Personnes débloquées
+success_contactrequest_sent,C'est bien parti !
+success_confirmation_subscription,Votre email a bien été validé.
+success_confirmation_unsubscribe,Votre compte a bien été supprimé.
+success_unsubscribe_already,Votre désinscription a déjà été effectuée.
+success_unsubscribe,La désinscription est réussie
+success_filter_edited,Filtre édité
+success_filter_removed,Filtre supprimé
+success_filter_added,Filtre ajouté
+success_main_picture_set,Photo de profil ajoutée
+success_picture_removed,Photo supprimée
+success_preference_edited,Vos préférences ont été mises à jour
+success_profile_edited,Votre profil a été mis à jour
+success_abuse_reported,L'abus a été signalé
+success_restore_done,Vore compte a été restauré
+success_email_sent,L'email de vérification a bien été envoyé
+success_smile_sent,Smile envoyé
+success_favorite_added,Ajouté aux favoris
+success_favorite_removed,Supprimé des favoris
+success_thread_removed,La discussion a été supprimée
+success_threads_removed,La conversation a été supprimée
+success_ticket_sent,Message envoyé au service client
+success_update_firstname,Votre prénom a bien été modifié
+push_notif_pseudo_sent_you_a_message,{{pseudo}} vous a envoyé un message
+push_notif_you_received_new_message,Vous avez reçu un nouveau message
+push_notif_pseudo_reacted_your_message,{{pseudo}} a réagi à votre message
+push_notif_you_received_a_smile_from_pseudo,Vous avez reçu un nouveau smile de {{pseudo}}
+push_notif_you_received_a_smile,Vous avez reçu un nouveau smile
+push_notif_you_received_visit_from_pseudo,Vous avez une nouvelle visite de {{pseudo}}
+push_notif_you_received_visit,Vous avez une nouvelle visite
+push_notif_pseudo_accepted_your_request_contact,{{pseudo}} a accepté de croiser votre destin !
+push_notif_she_accepted_your_request_contact,Elle a accepté de croiser votre destin !
+push_notif_pseudo_sent_request_contact_to_you,{{pseudo}} souhaite croiser votre destin !
